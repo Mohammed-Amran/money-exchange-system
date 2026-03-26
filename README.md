@@ -11,8 +11,6 @@ An ATM System that Dispenses, Coalesces, and Convert's money between different c
 - Javax package.
 - OOP.
 
-## Screenshoots
-
 
 ## How to run the system
 1. Clone the repository.
