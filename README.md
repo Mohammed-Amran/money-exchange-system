@@ -1,2 +1,5 @@
 # Money-Exchange-System
-A cool system that Dispenses, Coalesces, and convert's money
+An ATM System that Dispenses, Coalesces, and Convert's money between different currencies built using Java.
+
+## Features
+- 
